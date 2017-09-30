@@ -1,2 +1,9 @@
 这是测试
 二次添加
+
+echo "# jqueryplugin_pinglun" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/woshixinfode/jqueryplugin_pinglun.git
+git push -u origin master
